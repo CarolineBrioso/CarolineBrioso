@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Sou Assistente de Suporte Técnico na **Trílogo**, em Fortaleza. No dia a dia, combino atendimento próximo ao cliente com uma visão técnica que vai além do chamado: entendo o problema, acompanho a pessoa até a resolução e busco maneiras de melhorar o processo.
+Sou Assistente de Suporte Técnico na Trílogo, em Fortaleza. No dia a dia, combino atendimento próximo ao cliente com uma visão técnica que vai além do chamado: entendo o problema, fico junto até a resolução e penso em como evitar que volte a acontecer.
 
 Tenho facilidade de aprendizado e gosto de absorver tecnologias novas conforme a necessidade aparece, foi assim que fui migrando naturalmente para automação de processos, integrações via API e scripts. Mas acredito que o diferencial do bom suporte está nas duas pontas: na empatia com quem precisa de ajuda e na técnica para resolver de verdade.
 
