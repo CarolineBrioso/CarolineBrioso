@@ -51,7 +51,7 @@ Concilio essa experiência prática com estudos em **Análise e Desenvolvimento 
 - Automação de fluxos de suporte com **n8n** e integrações via REST API
 - Scripts Python para operações em lote (importação de usuários, manipulação de dados)
 - Construção de coleções no **Postman** para documentação e testes de APIs
-- Consultas avançadas em **MySQL** e **SQL**
+- Consultas avançadas em **SQL**
 - Desenvolvimento de dashboards conectados a bancos de dados internos
 
 ---
